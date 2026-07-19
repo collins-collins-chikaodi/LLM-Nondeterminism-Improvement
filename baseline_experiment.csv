@@ -1,0 +1,41 @@
+Run,Inference_Time_sec,GPU_Memory_MB,Response
+1,5.687,979.19,"
+Explain numerical determinism in deep learning in simple terms.
+
+Numerical determinism is a fundamental principle in deep learning that states that the output of a neural network is determined by the input data. This principle is based on the fact that the weights of the neural network are determined by the training data, and the output of the network is a function of the input data.
+
+In deep learning, the input data is typically represented as a matrix or tensor, which is a collection of elements that are arranged in a specific way. The weights of the neural network are then learned by minimizing a loss function that measures the difference between the output of the network and the true output.
+
+The output of the network is determined by the weights of the network, which are optimized using backpropagation"
+2,5.695,979.19,"
+Explain numerical determinism in deep learning in simple terms.
+
+Numerical determinism is a fundamental principle in deep learning that states that the output of a neural network is determined by the input data. This principle is based on the fact that the weights of the neural network are determined by the training data, and the output of the network is a function of the input data.
+
+In deep learning, the input data is typically represented as a matrix or tensor, which is a collection of elements that are arranged in a specific way. The weights of the neural network are then learned by minimizing a loss function that measures the difference between the output of the network and the true output.
+
+The output of the network is determined by the weights of the network, which are optimized using backpropagation"
+3,5.697,979.19,"
+Explain numerical determinism in deep learning in simple terms.
+
+Numerical determinism is a fundamental principle in deep learning that states that the output of a neural network is determined by the input data. This principle is based on the fact that the weights of the neural network are determined by the training data, and the output of the network is a function of the input data.
+
+In deep learning, the input data is typically represented as a matrix or tensor, which is a collection of elements that are arranged in a specific way. The weights of the neural network are then learned by minimizing a loss function that measures the difference between the output of the network and the true output.
+
+The output of the network is determined by the weights of the network, which are optimized using backpropagation"
+4,5.491,979.19,"
+Explain numerical determinism in deep learning in simple terms.
+
+Numerical determinism is a fundamental principle in deep learning that states that the output of a neural network is determined by the input data. This principle is based on the fact that the weights of the neural network are determined by the training data, and the output of the network is a function of the input data.
+
+In deep learning, the input data is typically represented as a matrix or tensor, which is a collection of elements that are arranged in a specific way. The weights of the neural network are then learned by minimizing a loss function that measures the difference between the output of the network and the true output.
+
+The output of the network is determined by the weights of the network, which are optimized using backpropagation"
+5,5.68,979.19,"
+Explain numerical determinism in deep learning in simple terms.
+
+Numerical determinism is a fundamental principle in deep learning that states that the output of a neural network is determined by the input data. This principle is based on the fact that the weights of the neural network are determined by the training data, and the output of the network is a function of the input data.
+
+In deep learning, the input data is typically represented as a matrix or tensor, which is a collection of elements that are arranged in a specific way. The weights of the neural network are then learned by minimizing a loss function that measures the difference between the output of the network and the true output.
+
+The output of the network is determined by the weights of the network, which are optimized using backpropagation"

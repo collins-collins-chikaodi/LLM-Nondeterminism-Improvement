@@ -1,0 +1,11 @@
+Prompt,Inference_Time,GPU_Memory_MB,Response
+"
+Explain numerical determinism in deep learning in simple terms.
+",7.5107033252716064,979.18701171875,"
+Explain numerical determinism in deep learning in simple terms.
+
+Numerical determinism is a fundamental principle in deep learning that states that the output of a neural network is determined by the input data. This principle is based on the fact that the weights of the neural network are determined by the training data, and the output of the network is a function of the input data.
+
+In deep learning, the input data is typically represented as a matrix or tensor, which is a collection of elements that are arranged in a specific way. The weights of the neural network are then learned by minimizing a loss function that measures the difference between the output of the network and the true output.
+
+The output of the network is determined by the weights of the network, which are optimized using backpropagation"

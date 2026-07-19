@@ -1,0 +1,22 @@
+Prompt,Inference_Time_sec,GPU_Memory_MB,Response_Length,Response
+Explain Artificial Intelligence in simple terms.,4.454,978.11,640,"Explain Artificial Intelligence in simple terms. How does it work and what are its applications?
+
+AI is a branch of computer science that deals with the development of machines that can learn and think like humans. It involves the use of algorithms, machine learning, and deep learning to analyze large amounts of data and make decisions based on patterns and patterns.
+
+The basic idea behind AI is to create machines that can perform tasks that are currently done by humans. This can be done by training the machine to recognize patterns in data, learn from experience, and make decisions based on those patterns.
+
+Some of the applications"
+What is Machine Learning?,4.526,977.9,650,"What is Machine Learning?
+Machine learning is a branch of artificial intelligence that enables computers to learn from data without being explicitly programmed. It is a powerful tool for data analysis and decision-making, and it has revolutionized many industries. In this article, we will explore the basics of machine learning and how it can be applied to various industries.
+
+Introduction
+Machine learning is a branch of artificial intelligence that enables computers to learn from data without being explicitly programmed. It is a powerful tool for data analysis and decision-making, and it has revolutionized many industries. In this article, we"
+Explain Deep Learning in simple terms.,4.518,978.0,607,"Explain Deep Learning in simple terms. How does it work and what are its applications?
+
+Deep Learning is a type of machine learning that involves building neural networks with multiple layers. The layers in a neural network are connected to each other, and the output of one layer is used as input to the next layer. The process of training a neural network involves feeding it with data, and the network learns to predict the output based on the input.
+
+Deep Learning has several applications in various fields, including:
+
+1. Image and Video Recognition: Deep Learning is used to recognize objects, faces,"
+What is Numerical Determinism in deep learning?,2.202,975.99,288,What is Numerical Determinism in deep learning? How does it work? Can you give an example of how it can be used in practice? Explain the limitations of Numerical Determinism in deep learning. How does the use of Numerical Determinism affect the speed and accuracy of deep learning models?
+Explain Reinforcement Learning with a simple example.,4.493,978.11,600,Explain Reinforcement Learning with a simple example. How does it work in practice? How does it differ from other learning methods? How does it relate to other fields of study? How does it relate to other fields of study? How does it relate to other fields of study? How does it relate to other fields of study? How does it relate to other fields of study? How does it relate to other fields of study? How does it relate to other fields of study? How does it relate to other fields of study? How does it relate to other fields of study? How does it relate to other fields of study? How does it relate

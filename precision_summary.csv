@@ -1,0 +1,8 @@
+Metric,Value
+Average Inference Time (sec),4.039
+Minimum Inference Time (sec),2.202
+Maximum Inference Time (sec),4.526
+Average GPU Memory (MB),977.62
+Minimum GPU Memory (MB),975.99
+Maximum GPU Memory (MB),978.11
+Average Response Length,557.0
